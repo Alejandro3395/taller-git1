@@ -4,3 +4,5 @@ Soy Oro IV, mi SN de lol es Kinster
 Yo no fedeo, no soy noob
 Diego si fedea :V
 
+#Texto Dummy
+
